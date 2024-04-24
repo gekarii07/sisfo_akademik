@@ -1,0 +1,3 @@
+runtime: php74
+runtime_config:
+  document_root: sisfo_akademik
